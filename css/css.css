@@ -1,0 +1,7 @@
+[class*="col-"] 
+{
+  margin: 10px;
+  height: 110%;
+  background-color: silver;
+  text-align:center;
+}
